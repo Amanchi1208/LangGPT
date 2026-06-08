@@ -346,7 +346,7 @@ Prompt 写方法，不如写人。Prompt 写方法，是给模型步骤和工具
 ```bibtex
 @misc{wang2024langgpt,
       title={LangGPT: Rethinking Structured Reusable Prompt Design Framework for LLMs from the Programming Language}, 
-      author={Ming Wang and Yuanzhong Liu and Xiaoming Zhang and Songlian Li and Yijie Huang and Chi Zhang and Daling Wang and Shi Feng and Jigang Li},
+      author={Ming Wang and Yuanzhong Liu and Xiaoyu Liang and Songlian Li and Yijie Huang and Xiaoming Zhang and Sijia Shen and Chaofeng Guan and Daling Wang and Shi Feng and Huaiwen Zhang and Yifei Zhang and Minghui Zheng and Chi Zhang},
       year={2024},
       eprint={2402.16929},
       archivePrefix={arXiv},
