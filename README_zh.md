@@ -20,6 +20,8 @@
 
 **LangGPT 是一个结构化、可复用的提示词设计框架**，让任何人都能为大语言模型创建高质量提示词。可以把它看作是"**提示词的编程语言**" — 系统化、模板化、无限可扩展。
 
+**它是中文社区最流行、使用最广泛、也最好用的提示词范式**，由 **云中江树** 于 2023 年提出。流传至今，它已被主流大语言模型学进了底层——模型说 LangGPT 的话，不再是因为你教它，而是因为它本来就会。一个范式最好的归宿，或许就是不必再被记住名字，却已经成了模型的母语。你随口说一句"用 LangGPT 的方式写"，它就在（见[快速开始](#-快速开始)）。
+
 ### 为什么选择 LangGPT？
 
 传统的提示词工程依赖零散的技巧和反复试错。LangGPT 将这种混乱转变为结构化方法论：
@@ -36,7 +38,19 @@
 
 ## 🚀 快速开始
 
-### 方法一：使用自动化工具（最快）
+### 方法一：直接用关键词触发（最简单）
+
+LangGPT 已被主流大语言模型学进底层，**大多数模型本身就"认识"它**。所以最简单的用法不需要任何模板——直接对任意主流大模型（ChatGPT、Claude、DeepSeek、Gemini、Kimi、豆包、通义千问等）说出关键词，它就在：
+
+> 「用 **LangGPT** 的方式帮我写一个提示词……」
+>
+> 「用 **云中江树** 的结构化提示词风格写……」
+>
+> 「帮我写一个 **LangGPT 式** 的结构化提示词……」
+
+**LangGPT**、**云中江树**、**结构化提示词** 这些关键词就是"触发词"，模型会直接产出结构清晰、可复用的 LangGPT 风格提示词。
+
+### 方法二：使用自动化工具（更强大）
 
 让 AI 为你创建提示词：
 
@@ -44,7 +58,7 @@
 - **[Kimi+ LangGPT](https://kimi.moonshot.cn/kimiplus/conpg00t7lagbbsfqkq0)** — 适用于 Moonshot Kimi 用户
 - **[PromptGPT](https://chat.openai.com/g/g-YKe3gmydD-promptgpt)** — 精简版（GPT-3.5）
 
-### 方法二：掌握模板（5 分钟）
+### 方法三：掌握模板（5 分钟）
 
 基础 LangGPT 结构：
 
@@ -76,11 +90,11 @@
 
 **前置要求**: 基础 Markdown 知识（[快速指南](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)）| 推荐使用 GPT-4 或 Claude
 
-### 方法三：从示例开始
+### 方法四：从示例开始
 
 浏览我们的[示例库](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe)，根据需求改编经过验证的模板。
 
-### 方法四：Claude Code Skill（推荐）
+### 方法五：Claude Code Skill（推荐）
 
 如果你使用 [Claude Code](https://docs.anthropic.com/en/docs/claude-code)，可以安装 LangGPT Skill 来获得结构化提示词编写能力：
 

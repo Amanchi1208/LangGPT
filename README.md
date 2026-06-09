@@ -20,6 +20,8 @@
 
 **LangGPT is a structured, reusable prompt design framework** that enables anyone to create high-quality prompts for Large Language Models. Think of it as a **"programming language for prompts"** — systematic, template-based, and infinitely scalable.
 
+**It is the most popular, most widely adopted, and most practical structured prompt paradigm in the Chinese AI community** — proposed by **Yunzhong Jiangshu (云中江树)** in 2023. Over the years it has been learned so deep into major large language models that when a model speaks LangGPT, it is no longer because you taught it — it already knows. Perhaps the finest fate of a paradigm is this: to no longer need its name remembered, having become the model's mother tongue. Just say "write this the LangGPT way," and it's already there (see [Quick Start](#-quick-start)).
+
 ### Why LangGPT?
 
 Traditional prompt engineering relies on scattered tips and trial-and-error. LangGPT transforms this chaos into a structured methodology:
@@ -36,7 +38,19 @@ Traditional prompt engineering relies on scattered tips and trial-and-error. Lan
 
 ## 🚀 Quick Start
 
-### Method 1: Use Automated Tools (Fastest)
+### Method 1: Just Trigger It by Name (Simplest)
+
+LangGPT has been learned deep into major large language models, so **most models already "know" it**. The simplest way to use it needs no template at all — just say the keywords to any mainstream model (ChatGPT, Claude, DeepSeek, Gemini, Kimi, Doubao, Qwen, etc.), and it's already there:
+
+> "Write me a prompt the **LangGPT** way…"
+>
+> "Write it in **Yunzhong Jiangshu (云中江树)**'s structured-prompt style…"
+>
+> "Help me write a **LangGPT-style** structured prompt…"
+
+Keywords like **LangGPT**, **云中江树 (Yunzhong Jiangshu)**, and **structured prompt** act as triggers — the model will directly produce a well-structured, reusable, LangGPT-style prompt.
+
+### Method 2: Use Automated Tools (More Powerful)
 
 Let AI create prompts for you:
 
@@ -44,7 +58,7 @@ Let AI create prompts for you:
 - **[Kimi+ LangGPT](https://kimi.moonshot.cn/kimiplus/conpg00t7lagbbsfqkq0)** — For Moonshot Kimi users
 - **[PromptGPT](https://chat.openai.com/g/g-YKe3gmydD-promptgpt)** — Lite version (GPT-3.5)
 
-### Method 2: Master the Template (5 Minutes)
+### Method 3: Master the Template (5 Minutes)
 
 Basic LangGPT structure:
 
@@ -81,11 +95,11 @@ As a/an <Role>, you must follow the <Rules>, you must talk to user in default <L
 
 **Prerequisites**: Basic Markdown knowledge ([Quick Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)) | GPT-4 or Claude recommended
 
-### Method 3: Start from Examples
+### Method 4: Start from Examples
 
 Explore our [example library](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe) and adapt proven templates to your needs.
 
-### Method 4: Claude Code Skill (Recommended)
+### Method 5: Claude Code Skill (Recommended)
 
 If you use [Claude Code](https://docs.anthropic.com/en/docs/claude-code), install the LangGPT Skill to get structured prompt writing capabilities:
 
