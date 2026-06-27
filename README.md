@@ -142,6 +142,7 @@ Before diving into tactics, understand the principles. These essays explore the 
 - **[AI时代的新管理：机器负责优化，人类定义应该](Docs/AI时代的新管理：机器负责优化，人类定义应该.md)** — The new management in the AI era: machines optimize, humans define the criteria
 - **[AI Native 组织 · 思考碎片](Docs/AI%20Native组织-思考碎片.md)** — Fragments on organizational restructuring in the AI-native era
 - **[Prompt、Agent，与一个不再沉默的世界](Docs/Prompt-Agent-人-AI-世界.md)** — How agents reshape the prompt from a transaction into a delegation across the human–AI–world triad
+- **[决策链](Docs/决策链.md)** — A six-step decision chain chaining system dynamics, inversion, Bayesian updating, OODA, second-order and expected-value thinking
 
 *These foundational insights will transform how you think about prompts.*
 
